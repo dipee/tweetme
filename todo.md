@@ -15,7 +15,7 @@
         -> Images
     -> Delete
     -> Retweeting
-
+    -> Liking
 3. Following / Followers 
 
 4. Long Term TODO's 
